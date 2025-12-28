@@ -1,16 +1,75 @@
-# React + Vite
+# BotoShop | وبسایت فروشگاهی
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🖼 دمو پروژه
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎥 دموی آنلاین پروژه (در حال آماده‌سازی...)
 
-## React Compiler
+📸 پیش‌نمایش پروژه (درحال آماده سازی...)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🚀 تکنولوژی‌ها و ابزارهای استفاده‌شده
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚙️ تکنولوژی‌ها
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+
+---
+
+## 🛠 روش نصب و اجرای پروژه
+
+### 📥 نصب
+
+1. کلون کردن ریپازیتوری:
+
+```bash
+git clone https://github.com/parsamehrpooshan/BotoShop
+```
+
+2. ورود به پوشه پروژه:
+
+
+```bash
+cd project-name
+```
+
+
+3. نصب پکیج‌ها :
+
+
+```bash
+npm start
+```
+
+
+4. اجرای پروژه :
+
+
+```bash
+npm run dev
+```
+
+📍 سپس پروژه روی آدرس زیر در دسترس خواهد بود:
+
+```
+http://localhost:5173
+```
+
+
+
+## 📞 اطلاعات تماس
+
+📩 ارتباط با من:
+
+* PhoneNumber: 09184257619
+* Email: [parsamehrpooshan@gmail.com](mailto:example@gmail.com)
+* Instagram: parsa_mehr38
+
+---
+
+## ✅ نکات پایانی
+
+* اگر پروژه را دوست داشتید، به ریپازیتوری استار بدید ⭐
