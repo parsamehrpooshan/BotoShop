@@ -41,7 +41,7 @@ cd project-name
 
 
 ```bash
-npm start
+npm install
 ```
 
 
