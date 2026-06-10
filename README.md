@@ -5,7 +5,13 @@
 
 🎥 دموی آنلاین پروژه (در حال آماده‌سازی...)
 
-📸 پیش‌نمایش پروژه (درحال آماده سازی...)
+📸 پیش‌نمایش:
+
+
+![Preview](./public/images/screenshot1.png)
+![Preview](./public/images/screenshot2.png)
+![Preview](./public/images/screenshot3.png)
+
 
 
 ## 🚀 تکنولوژی‌ها و ابزارهای استفاده‌شده
@@ -64,9 +70,7 @@ http://localhost:5173
 
 📩 ارتباط با من:
 
-* PhoneNumber: 09184257619
 * Email: [parsamehrpooshan@gmail.com](mailto:example@gmail.com)
-* Instagram: parsa_mehr38
 
 ---
 
